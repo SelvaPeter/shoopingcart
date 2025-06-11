@@ -1,8 +1,5 @@
-import { BorderStyle } from "@mui/icons-material";
 import { Typography } from "@mui/joy";
 import { Grid } from "@mui/material";
-
-import { useMediaQuery } from "react-responsive";
 
 const Footer = () => {
   const typographyColor = {

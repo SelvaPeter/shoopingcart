@@ -97,7 +97,7 @@ const Body = ({searchQuery}) => {
 
  
 
-  const { addToCart, cart, removeFromCart, updateQuantity, total } = useCart();
+  const { addToCart, cart, updateQuantity } = useCart();
   
 
 

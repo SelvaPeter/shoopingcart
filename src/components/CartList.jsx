@@ -21,7 +21,7 @@ import HomeIcon from '@mui/icons-material/Home';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 const CartList = () => {
-    const { cart, removeFromCart, updateQuantity, total } = useCart();
+    const { cart, removeFromCart, updateQuantity} = useCart();
     
       // Calculate total price of the cart
   const calculateTotalPrice = () => {
