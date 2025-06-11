@@ -1,0 +1,228 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Fruits & Vegetables",
+      "status": false
+    },
+    {
+      "id": "2",
+      "name": "Your Daily Staples",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Beverages",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Snacks Store",
+      "status": true
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Potato",
+      "type": "Fresh Vegetables",
+      "category": "Fruits & Vegetables",
+      "actualPrice": "82.19",
+      "discountPrice": "55",
+      "discount": "33",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "2",
+      "name": "Onion",
+      "type": "Fresh Vegetables",
+      "category": "Fruits & Vegetables",
+      "actualPrice": "102.05",
+      "discountPrice": "66",
+      "discount": "37",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "3",
+      "name": "Aashirvaad - Atta",
+      "type": "Atta & Flour",
+      "category": "Your Daily Staples",
+      "actualPrice": "70",
+      "discountPrice": "65.52",
+      "discount": "6",
+      "status": false,
+      "image": "no-img"
+    },
+    {
+      "id": "4",
+      "name": "bb Royal - Kadale Hittu",
+      "type": "Atta & Flour",
+      "category": "Your Daily Staples",
+      "actualPrice": "165",
+      "discountPrice": "132",
+      "discount": "20",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "5",
+      "name": "Bournvita",
+      "type": "Health Drinks & Supplements",
+      "category": "Beverages",
+      "actualPrice": "370",
+      "discountPrice": "336.70",
+      "discount": "33",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "6",
+      "name": "Boost",
+      "type": "Health Drinks & Supplements",
+      "category": "Beverages",
+      "actualPrice": "469",
+      "discountPrice": "349.08",
+      "discount": "26",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "7",
+      "name": "French Fries",
+      "type": "Chai Time Snack",
+      "category": "Snacks Store",
+      "actualPrice": "330",
+      "discountPrice": "264",
+      "discount": "20",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "8",
+      "name": "Frozen - Green Peas",
+      "type": "Chai Time Snack",
+      "category": "Snacks Store",
+      "actualPrice": "240",
+      "discountPrice": "187.2",
+      "discount": "22",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "9",
+      "name": "Carrot",
+      "type": " Fresh Vegetables",
+      "category": "Fruits & Vegetables",
+      "actualPrice": "156.16",
+      "discountPrice": "70",
+      "discount": "55",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "10",
+      "name": "Test",
+      "type": "Fresh Vegetables",
+      "category": "Beverages",
+      "actualPrice": "550",
+      "discountPrice": "500",
+      "discount": "10",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "11",
+      "name": "fgfdg",
+      "type": "Fresh Vegetables",
+      "category": "Fruits & Vegetables",
+      "actualPrice": "500",
+      "discountPrice": "450",
+      "discount": "10",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "12",
+      "name": "odjf",
+      "type": "mjdshj",
+      "category": "Your Daily Staples",
+      "actualPrice": "55",
+      "discountPrice": "5",
+      "discount": "50",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "13",
+      "name": "jhdkfhjk",
+      "type": "lkhkfjdhk",
+      "category": "Your Daily Staples",
+      "actualPrice": "80",
+      "discountPrice": "5",
+      "discount": "75",
+      "status": false,
+      "image": "no-img"
+    },
+    {
+      "id": "14",
+      "name": "dfdf",
+      "type": "jdsguh",
+      "category": "Fruits & Vegetables",
+      "actualPrice": "60",
+      "discountPrice": "50",
+      "discount": "10",
+      "status": false,
+      "image": "no-img"
+    },
+    {
+      "id": "15",
+      "name": "kjhdfj",
+      "type": "kfdhkjhk",
+      "category": "Beverages",
+      "actualPrice": "65",
+      "discountPrice": "50",
+      "discount": "50",
+      "status": true,
+      "image": "no-img"
+    },
+    {
+      "id": "16",
+      "name": "Sakthi Masala",
+      "type": "Masala",
+      "category": "Your Daily Staples",
+      "actualPrice": "100",
+      "discountPrice": "90",
+      "discount": "10",
+      "status": true,
+      "image": "no-img"
+    }
+  ],
+  "cartitems": [
+    {
+      "id": "1",
+      "product": "2"
+    },
+    {
+      "id": "2",
+      "product": "7"
+    },
+    {
+      "id": "3",
+      "product": "12"
+    },
+    {
+      "id": "4",
+      "product": "15"
+    },
+    {
+      "id": "1",
+      "product": "9"
+    },
+    {
+      "id": 1,
+      "product": "5"
+    }
+  ]
+}
