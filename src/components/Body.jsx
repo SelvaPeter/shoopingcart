@@ -26,10 +26,9 @@ import RemoveIcon from '@mui/icons-material/Remove';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 const Body = ({searchQuery}) => {
-  const isBigScreen = useMediaQuery({ query: "(min-width:1824px)" });
   const isLaptoporDesktop = useMediaQuery({ query: "(min-width:1224px) and (max-width:1823px)" });
   const isTabletorMobile = useMediaQuery({ query: "(max-width:1223px)" });
-  const isPortrait = useMediaQuery({ query: "(orientation:portrait)" });
+
 
   const [productLists, setProductLists] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
